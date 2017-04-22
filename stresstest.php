@@ -9,7 +9,7 @@
         $secret                         = "YOURTESTNETSECRET"; // YOURDELEGATENAME delegate
         $amount                         = 1000000;
         $sendTo                         = "ADRESS"; // DELEGATENAME TO SENT TO delegate
-        $nodeAddress            = "http://YOURNODE ADRESS:9405"; // Testnet
+        $nodeAddress                    = "http://YOURNODE ADRESS:9405"; // Testnet
 
         $multiple                       = true; // Send multiple transactions?
         $times                          = 5000; // How many transactions?
