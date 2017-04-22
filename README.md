@@ -1,4 +1,4 @@
-# stresstest
+# stresstest by @jan / @seatrips
 
 ## stresstest php script for shift
 ```
