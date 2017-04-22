@@ -1,6 +1,8 @@
 # stresstest
-``
+
 **stresstest php script for shift
 ``
-edit stresstest.php for your own delegate and adress to sent to
+edit stresstest.php
+adress and delegate to sent to
+delegate vps adress and secret 
 ``
