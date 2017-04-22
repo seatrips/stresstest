@@ -6,7 +6,7 @@
 
 // Variables
         $date                           = date("Y-m-d H:i:s");
-        $secret                         = "YOURTESTNETSECRET"; // YOURDELEGATENAME delegate
+        $secret                         = "YOURTESTNETSECRET"; // Passphrase of your delegate
         $amount                         = 1000000;
         $sendTo                         = "ADRESS"; // DELEGATENAME TO SENT TO delegate
         $nodeAddress                    = "http://YOURNODE ADRESS:9405"; // Testnet
