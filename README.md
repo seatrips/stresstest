@@ -9,4 +9,4 @@ then run
 php stresstest.php
 ```
 ## Screenshot
-![Screenshot](Variables stresstest.png?raw=true "Screenshot")
+![Screenshot](screenshot.png?raw=true "Screenshot")
