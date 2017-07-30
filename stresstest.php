@@ -1,7 +1,7 @@
 <?php
 /* _____________________
         
-         STRESS TEST SHIFT
+         STRESS TEST OXY
    _____________________ */
 
 // Variables
@@ -9,7 +9,7 @@
         $secret                         = "YOURTESTNETSECRET"; // Passphrase of your delegate
         $amount                         = 1000000;
         $sendTo                         = "ADRESS"; // DELEGATENAME TO SENT TO delegate
-        $nodeAddress                    = "http://YOURNODE ADRESS:9405"; // Testnet
+        $nodeAddress                    = "http://YOURNODE ADRESS:9998"; // Testnet
 
         $multiple                       = true; // Send multiple transactions?
         $times                          = 5000; // How many transactions?
