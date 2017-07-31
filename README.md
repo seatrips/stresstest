@@ -1,6 +1,6 @@
 # stresstest by @jan / @seatrips
 
-## stresstest php script for shift
+## stresstest php script for oxy
 
 edit stresstest.php to your needs
 
